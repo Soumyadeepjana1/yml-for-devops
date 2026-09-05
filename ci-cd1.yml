@@ -1,0 +1,38 @@
+name: Basic CI 
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  hello:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/Checkout@v4
+
+      - name: Hello Devops
+        run: echo "Hello Devops"
+        
+
+
+
+name: DEMO CI
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  hello:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: action/Checkout@v4
+
+      - name: hello devops_engineer
+        run: echo "hello-devops:"
