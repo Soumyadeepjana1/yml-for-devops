@@ -1,0 +1,11 @@
+servers:
+  - name: prod-web-01
+    cpu: 91%
+  - name: prod-web-02
+    cpu: 78%
+  - name: prod-web-03
+    cpu: 65%
+  - name: prod-web-04
+    cpu: 43%
+  - name: prod-web-05
+    cpu: 22%

@@ -1,0 +1,11 @@
+departments:
+  - name: Engineering
+    budget: 1000000
+  - name: Marketing
+    budget: 750000
+  - name: Sales
+    budget: 500000
+  - name: HR
+    budget: 200000
+  - name: Admin
+    budget: 100000

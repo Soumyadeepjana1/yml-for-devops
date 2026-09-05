@@ -1,0 +1,11 @@
+scores:
+  - name: Alice
+    score: 98
+  - name: Bob
+    score: 87
+  - name: Carol
+    score: 75
+  - name: Dave
+    score: 62
+  - name: Eve
+    score: 45

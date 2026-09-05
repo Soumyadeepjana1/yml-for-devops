@@ -1,0 +1,16 @@
+results:
+  - position: 1
+    runner: Alex
+    time: "00:09:12"
+  - position: 2
+    runner: Brian
+    time: "00:09:45"
+  - position: 3
+    runner: Clara
+    time: "00:10:03"
+  - position: 4
+    runner: Dan
+    time: "00:10:28"
+  - position: 5
+    runner: Eve
+    time: "00:10:51"

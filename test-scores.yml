@@ -1,0 +1,11 @@
+scores:
+  - subject: Math
+    score: 95
+  - subject: Science
+    score: 88
+  - subject: History
+    score: 76
+  - subject: English
+    score: 64
+  - subject: Art
+    score: 52

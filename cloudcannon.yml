@@ -1,0 +1,15 @@
+name: Website
+channels:
+  - name: main
+    components:
+      - name: shell
+        type: index
+        html: |
+          <!DOCTYPE html>
+          <html lang="en">
+          <head><title>{{ name }}</title></head>
+          <body><h1>{{ title }}</h1></body>
+          </html>
+    variables:
+      name: My Site
+      title: Welcome

@@ -1,0 +1,16 @@
+customers:
+  - id: C001
+    name: Acme Corp
+    csat: 5.0
+  - id: C002
+    name: Globex
+    csat: 4.9
+  - id: C003
+    name: Initech
+    csat: 4.5
+  - id: C004
+    name: Umbrella
+    csat: 4.0
+  - id: C005
+    name: Strickland
+    csat: 3.2

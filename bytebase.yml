@@ -1,0 +1,17 @@
+version: '1.0'
+services:
+  my-service:
+    reservoirs:
+      postgres:
+        provider: postgres
+        url: postgresql://${POSTGRES_USER}:${POSTGRES_PASS}@localhost:5432/mydb
+    structs:
+      - name: User
+        fields:
+          - name: id
+            type: int
+          - name: email
+            type: varchar(255)
+    migrations:
+      - name: create_users_table
+        script: migrations/001_create_users.sql

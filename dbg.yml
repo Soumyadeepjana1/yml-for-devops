@@ -1,0 +1,7 @@
+version: 1
+dbg: Simple dbg example
+type: single
+items:
+  - id: rule1
+    type: dynamic
+    pattern: user@example.com

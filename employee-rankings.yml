@@ -1,0 +1,16 @@
+rankings:
+  - rank: 1
+    name: Sarah
+    rating: 5.0
+  - rank: 2
+    name: James
+    rating: 4.8
+  - rank: 3
+    name: Maria
+    rating: 4.5
+  - rank: 4
+    name: Tom
+    rating: 4.2
+  - rank: 5
+    name: Lisa
+    rating: 3.9

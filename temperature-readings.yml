@@ -1,0 +1,11 @@
+readings:
+  - city: Phoenix
+    temp: 45°C
+  - city: Las Vegas
+    temp: 42°C
+  - city: Dallas
+    temp: 38°C
+  - city: Miami
+    temp: 34°C
+  - city: Seattle
+    temp: 22°C

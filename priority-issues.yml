@@ -1,0 +1,16 @@
+issues:
+  - id: ISS-101
+    priority: critical
+    severity: 10
+  - id: ISS-102
+    priority: high
+    severity: 8
+  - id: ISS-103
+    priority: medium
+    severity: 5
+  - id: ISS-104
+    priority: low
+    severity: 3
+  - id: ISS-105
+    priority: trivial
+    severity: 1
